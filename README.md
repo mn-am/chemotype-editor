@@ -1,6 +1,6 @@
 # Chemotype Editor
 
-The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints. The development of the Chemotype Editor received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 777365 ([​eTRANSAFE project](https://etransafe.eu/)) and the Cosmetics Europe Ontology project.
+The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints.
 
 ## Chemotype Editor Download
 
@@ -17,3 +17,7 @@ Please note, this implementation of the editor is preliminary. It does not curre
 ## Contact
 
 In technical support issues please contact us through: [​info@chemotyper.org](mailto:info@chemotyper.org)
+
+## Acknowledgements
+
+The development of the Chemotype Editor received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 777365 ([​eTRANSAFE project](https://etransafe.eu/)) and the Cosmetics Europe Ontology project.
