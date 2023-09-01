@@ -2,13 +2,7 @@
 
 The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints.
 
-## Chemotype Editor Download
-
-The editor is available for download for registered users: [download Chemotype Editor](# "No permission to file.") and [download tutorial for Chemotype Editor](# "No permission to file.").
-
-Please [login](/login) if you already have an account or [register](/register).
-
-Please note, this implementation of the editor is preliminary. It does not currently support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import SMARTS using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
+Please note, this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure define in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
 
 ## References
 
@@ -16,7 +10,7 @@ Please note, this implementation of the editor is preliminary. It does not curre
 
 ## Contact
 
-For technical support please contact [​info@chemotyper.org](mailto:info@chemotyper.org).
+For technical support please contact [​support@mn-am.com](mailto:support@mn-am.org).
 
 ## Acknowledgements
 
