@@ -16,7 +16,7 @@ Please note, this implementation of the editor is preliminary. It does not curre
 
 ## Contact
 
-In technical support issues please contact us through: [​info@chemotyper.org](mailto:info@chemotyper.org)
+For technical support please contact [​info@chemotyper.org](mailto:info@chemotyper.org)
 
 ## Acknowledgements
 
