@@ -2,7 +2,7 @@
 
 The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints.
 
-Please note, this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure define in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
+Please note, this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure defined in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
 
 ## References
 
