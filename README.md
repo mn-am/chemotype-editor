@@ -18,6 +18,6 @@ The ChemoTyper application was developed by Molecular Networks GmbH, Erlangen, G
 
 The XML-based substructure (or chemotype) definition language CSRML was co-developed in collaboration with Altamira LLC, Columbus, OH, USA.
 
-The development of the Chemotype Editor application received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 777365 ([​eTRANSAFE project](https://etransafe.eu/)) and the Cosmetics Europe Ontology project.
+The development of the Chemotype Editor application received funding from the Innovative Medicines Initiative 2 Joint Undertaking under Grant Agreement No 777365 ([​eTRANSAFE project](https://etransafe.eu/)) and the Cosmetics Europe Ontology project.
 
 Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Altamira LLC.
