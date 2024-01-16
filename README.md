@@ -6,6 +6,10 @@ The Chemotype Editor is a graphical user interface (GUI) application for creatin
 
 Please note, this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure defined in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
 
+## ChemoTyper application
+
+Chemotyper is a graphical user interface (GUI) application for for searching, matching, and highlighting chemotypes in chemical datasets. Please visit the [ChemoTyper repository](https://github.com/mn-am/chemotype) on GitHub.
+
 ## References
 
 *   [​C Yang, A Tarkhov, J Marusczyk, B Bienfait, J Gasteiger, T Kleinoeder, T Magdziarz, O Sacher, CH Schwab, J Schwoebel, L Terfloth, K Arvidson, A Richard, A Worth, J Rathman. New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling. *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528.](http://pubs.acs.org/doi/abs/10.1021/ci500667v)
