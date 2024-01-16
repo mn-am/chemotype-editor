@@ -8,7 +8,7 @@ Please note, this implementation of the Chemotype Editor is preliminary. This ve
 
 ## ChemoTyper application
 
-ChemoTyper is a graphical user interface (GUI) application for for searching, matching, and highlighting chemotypes in chemical datasets. Please visit the [ChemoTyper repository](https://github.com/mn-am/chemotype) on GitHub.
+ChemoTyper is a graphical user interface (GUI) application for for searching, matching, and highlighting chemotypes in chemical datasets. Please visit the [ChemoTyper repository](https://github.com/mn-am/chemotyper) on GitHub.
 
 ## References
 
