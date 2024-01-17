@@ -6,13 +6,11 @@ The Chemotype Editor is a graphical user interface (GUI) application for creatin
 
 <!--- This repository houses the source code for the web-based Chemotype Editor and provides a downloadable standalone Windows executable for convenient use. --->
 
-Access the web application directly from your browser by navigating to the following link: 
-https://mn-am.github.io/chemotype-editor/web-app/index.html
+Besides a version for Microsoft Windows computers (see tab "Releases"), Chemotype Editor is also available as a [web application](https://mn-am.github.io/chemotype-editor/web-app/index.html) for demo purposes.
 
-To obtain the standalone Windows executable, head to the release section of this repository and download the latest executable file.
+<!--- To obtain the standalone Windows executable, head to the release section of this repository and download the latest executable file. --->
 
-
-Please note, this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure defined in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
+Please note that this implementation of the Chemotype Editor is preliminary. This version does not support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import substructure defined in SMARTS format using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
 
 ## ChemoTyper application
 
