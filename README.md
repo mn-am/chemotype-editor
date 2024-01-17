@@ -6,7 +6,7 @@ The Chemotype Editor is a graphical user interface (GUI) application for creatin
 
 <!--- This repository houses the source code for the web-based Chemotype Editor and provides a downloadable standalone Windows executable for convenient use. --->
 
-Besides a version for Microsoft Windows computers (see tab "Releases"), Chemotype Editor is also available as a [web application](https://mn-am.github.io/chemotype-editor/web-app/index.html) for demo purposes.
+Besides a version for local installations on Microsoft Windows computers (see tab "Releases"), Chemotype Editor is also available as a [web application](https://mn-am.github.io/chemotype-editor/web-app/index.html) for test purposes.
 
 <!--- To obtain the standalone Windows executable, head to the release section of this repository and download the latest executable file. --->
 
