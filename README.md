@@ -4,7 +4,7 @@
 
 The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints.
 
-This repository houses the source code for the web-based Chemotype Editor and provides a downloadable standalone Windows executable for convenient use.
+<!--- This repository houses the source code for the web-based Chemotype Editor and provides a downloadable standalone Windows executable for convenient use. --->
 
 Access the web application directly from your browser by navigating to the following link: 
 https://mn-am.github.io/chemotype-editor/web-app/index.html
